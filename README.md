@@ -5,11 +5,13 @@ Bu proje, **equipment_anomaly_data.csv** veri seti kullanılarak endüstriyel ek
 ---
 
 ## Proje Yapısı
+```
 anomalyDetection/
 │── binaryClassification.ipynb # İlk Model Denemesi (Random Forest Classifier)
 │── binaryClassification_V2.ipynb # Recall Odaklı Geliştirme (SMOTE + Hyperparameter Tuning)
 │── equipment_anomaly_data.csv # Veri Seti
 │── README.md # Proje Açıklamaları
+```
 
 ---
 
